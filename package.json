@@ -1,0 +1,17 @@
+{
+  "dependencies": {},
+  "name": "multi-step-form-main",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "bun-types": "^0.4.0",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.0.3"
+  },
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "isolatedModules": false,
+  },
+  "compileOnSave": true,
+  "rootDir": "src/"
+}
